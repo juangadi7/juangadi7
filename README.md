@@ -15,6 +15,7 @@ Mi pasión es **automatizar procesos en empresas** con software e **IA aplicada*
 - 🎯 Busco oportunidades para automatizar procesos en empresas del sector informático
 
 ## Proyectos
+- 📊 [**CONTENT OS**](https://github.com/juangadi7/content-os): app de escritorio (Electron + React + SQLite) que automatiza la gestión de clips cortos: planifica publicaciones en TikTok, YouTube e Instagram y mide sus estadísticas día a día. [Demo en vivo](https://juangadi7.github.io/content-os/)
 - 📘 [**Repaso DAW**](https://github.com/juangadi7/repaso-daw): app de estudio con repaso espaciado, tests y apuntes buscables, hecha con IA. [Demo en vivo](https://juangadi7.github.io/repaso-daw/)
 
 ## Trayectoria
