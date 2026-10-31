@@ -1,6 +1,8 @@
 # Hola, soy Juan 👋
 
-Estudiante de **Desarrollo de Aplicaciones Web (DAW)** en Sevilla. Me interesa la **IA aplicada**: saber usarla bien, en qué momentos aporta valor y cómo integrarla en el trabajo y en el desarrollo.
+Técnico Superior en **Robótica Industrial y Automatismos** y estudiante de **Desarrollo de Aplicaciones Web (DAW)** en Sevilla.
+
+Mi pasión es **automatizar procesos en empresas** con software e **IA aplicada**: detectar tareas repetitivas, diseñar el flujo y dejarlo funcionando solo.
 
 ## Cómo trabajo con IA
 - **Cuándo usarla:** para acelerar tareas repetitivas, aprender más rápido, prototipar y desbloquearme. **Cuándo no:** cuando no puedo verificar el resultado o necesito entender algo a fondo.
@@ -10,10 +12,14 @@ Estudiante de **Desarrollo de Aplicaciones Web (DAW)** en Sevilla. Me interesa l
 ## Ahora mismo
 - 📚 Cursando DAW (2026–2028)
 - 🧰 Practicando con herramientas de IA para estudiar y construir proyectos
-- 🎯 Próximo proyecto: una app de estudio con tests y ejercicios, hecha con ayuda de IA
+- 🎯 Busco oportunidades para automatizar procesos en empresas del sector informático
+
+## Proyectos
+- 📘 [**Repaso DAW**](https://github.com/juangadi7/repaso-daw): app de estudio con repaso espaciado, tests y apuntes buscables, hecha con IA. [Demo en vivo](https://juangadi7.github.io/repaso-daw/)
 
 ## Trayectoria
-Vengo de la **robótica industrial y la automatización**, donde aprendí a diseñar procesos fiables y a depurar sistemas. Ahora aplico esa forma de pensar al software.
+- 🤖 **Grado Superior en Robótica Industrial y Automatismos**: PLC, procesos industriales y depuración de sistemas.
+- 💻 **DAW (2026–2028)**: llevo esa misma mentalidad de automatización al software y a la empresa.
 
 ## Contacto
 - 💼 [LinkedIn](https://www.linkedin.com/in/juan-gavira-automatizacion/)
