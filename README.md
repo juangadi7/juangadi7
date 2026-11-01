@@ -15,6 +15,7 @@ Mi pasión es **automatizar procesos en empresas** con software e **IA aplicada*
 - 🎯 Busco oportunidades para automatizar procesos en empresas del sector informático
 
 ## Proyectos
+- ⌚ [**Mareval**](https://juangadi7.github.io/mareval/): web de producto para una relojera de lujo inventada. El reloj está dibujado en SVG, marca tu hora real y se desmonta en 3D pieza a pieza al hacer scroll.
 - 📊 [**CONTENT OS**](https://github.com/juangadi7/content-os): app de escritorio (Electron + React + SQLite) que automatiza la gestión de clips cortos: planifica publicaciones en TikTok, YouTube e Instagram y mide sus estadísticas día a día. [Demo en vivo](https://juangadi7.github.io/content-os/)
 - 📘 [**Repaso DAW**](https://github.com/juangadi7/repaso-daw): app de estudio con repaso espaciado, tests y apuntes buscables, hecha con IA. [Demo en vivo](https://juangadi7.github.io/repaso-daw/)
 
@@ -23,4 +24,5 @@ Mi pasión es **automatizar procesos en empresas** con software e **IA aplicada*
 - 💻 **DAW (2026–2028)**: llevo esa misma mentalidad de automatización al software y a la empresa.
 
 ## Contacto
+- 🌐 [juangadi7.github.io](https://juangadi7.github.io): mi web con todos los proyectos
 - 💼 [LinkedIn](https://www.linkedin.com/in/juan-gavira-automatizacion/)
